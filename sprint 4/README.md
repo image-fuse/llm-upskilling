@@ -4,6 +4,7 @@ Word embeddings are numerical representations of words. These representations ar
 
 # Frequency Based Embedding
 
+
 ## One-Hot encoding
 
 Every word (even symbols) which are part of the given text data are written in the form of vectors, constituting only of 1 and 0. This allows the word to be identified uniquely by its one hot vector and vice versa, that is no two words will have same one hot vector representation.
